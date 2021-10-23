@@ -1,4 +1,4 @@
-# 👻 BDD: Desenvolvimento Orientado a Comportamento
+# BDD: Desenvolvimento Orientado a Comportamento
 
 Muito se fala em desenvolvimento ágil e metodologias que possam ajudar a garantir uma entrega com maior qualidade. Conhecemos amplamente a metodologia de desenvolvimento focada em testes (TDD — Test Driven Development) e agora iremos conhecer o BDD - Behavior Driven Development.
 
