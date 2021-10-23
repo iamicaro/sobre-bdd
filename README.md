@@ -32,3 +32,23 @@ Para utilizar no carrinho
 ```
 
 > A ideia é que as features sejam o mais descritivo possível, contendo todos os detalhes de sua funcionalidade, como meios para disparar o negocial e as possíveis validações do contexto. Os critérios de aceite dos cenários também estão especificados nela.
+
+## Quem escreve as features?
+
+Os cenários de testes não são escritos apenas pelo desenvolvedor. Existe um conceito na metodologia ágil, difundida por Georgie Dinwiddie, chamada de regra dos três amigos. Nela existem três agentes principais que devem interagir diretamente entre si para construir um produto com melhor qualidade. Aqui podemos dizer que o PO (ou alguém mais próximo dos requisitos do produto podendo até mesmo ser o próprio cliente), o QA e o desenvolvedor se reúnem para debater os cenários de testes e escrevê-los da melhor forma possível.
+
+> É importante frisar que a interação entre todas as partes envolvidas no processo deve ocorrer. Durante a cerimônia, diversas perguntas serão feitas a fim de especificar a feature da melhor forma possível.
+
+## Conclusão
+
+Vimos diversas formas de como podemos nos beneficiar do processo de BDD em nossos projetos. Podemos listar algumas vantagens de por que aplicar a metodologia em seu dia a dia.
+
+Interação — Ocorre uma interação mais direta entre os envolvidos no time. Mantendo assim a comunicação mais eficiente e permitindo termos testes mais precisos.
+
+Documentação viva — A famosa documentação viva, aquela construída durante o desenvolvimento pode ser levada em consideração. Aqui as features servem como documentação da sua aplicação. Cada feature define os requisitos do sistema e todos os seus critérios de aceitação.
+
+Testes baseados no comportamento — Dessa vez temos testes que nos dizem como o sistema deve se comportar, e não apenas os conceitos técnicos que os definem.
+
+Compartilhamento de conhecimento — Todo o processo de construção das features permite que o time esteja alinhado quanto ao negocial e aos requisitos do sistema. O trabalho em conjunto realmente acontece, e pode sanar aquela mísera dúvida que sempre surge quando começamos a codificar.
+
+Também vale citar alguns livros essenciais para quem quiser se aprofundar no assunto. [BDD In Action](https://amzn.to/2ERdM3a) e [Specification by example](https://amzn.to/2HVePBm), encontrados apenas em inglês mas são de grande valia quando se trata sobre o tema.
