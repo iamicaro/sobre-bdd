@@ -19,3 +19,14 @@ O processo de desenvolvimento do BDD se baseia na escrita de cenários de testes
 As features são regidas por três palavras básicas que definem o corpo da linguagem. Dado, Quando e Então. É claro que não é preciso seguir estas normas, mas North recomenda que seja estabelecido um padrão para a escrita, para que a comunicação entre as partes seja mantida.
 
 ### Segue um exemplo de feature abaixo:
+
+```groovy
+Dado que o cliente esteja na listagem de cupons de Frete VIP
+Quando selecionar o cupom desejado
+E obter o cupom selecionado
+Então mostrará uma mensagem de sucesso
+
+Eu como cliente do CB VIP
+Quero obter um cupom válido para Frete VIP
+Para utilizar no carrinho
+```
