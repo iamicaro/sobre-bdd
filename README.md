@@ -4,11 +4,13 @@ Muito se fala em desenvolvimento ágil e metodologias que possam ajudar a garant
 
 ## 🆗 O que é BDD
 
-O BDD, da sigla Behavior Driven Development, é uma metodologia de desenvolvimento ágil orientada a comportamento. Ela foi apresentada por Dan North em meados dos anos 2000 como uma evolução do processo de metodologia do TDD.
+Em uma definição resumida, podemos dizer o que é BDD, ou seja:
+
+“Behavior Driven Development, ou BDD, é um processo colaborativo que envolve múltiplos membros do time, trabalhando em conjunto com o PO para descobrir e refinar os requisitos usando, para isso, conversas estruturadas sobre exemplos de uso e comportamento de um sistema ou funcionalidade, buscando o entendimento compartilhado”. Ela foi apresentada por Dan North em meados dos anos 2000 como uma evolução do processo de metodologia do TDD.
 
 Dan North tinha como objetivo aproximar pessoas não técnicas no processo de criação das funcionalidades técnicas do sistema. Ocorre que quando desenvolvemos software, involuntariamente podemos deixar de incluir conceitos negociais presentes na funcionalidade, acarretando em uma possível vazão para bugs recorrentes, e até mesmo graves. E não por negligência do programador, mas sim pela falta de comunicação com quem domina o negocial.
 
-O BDD serve para aperfeiçoar o desenvolvimento e aproximar todas as partes envolvidas no processo de criação. Isso ocorre pela estrutura do BDD ser baseada em uma linguagem comum entre todos os integrantes do time.
+A alma do BDD está na conversa, alinhamento constante e principalmente no entendimento compartilhado entre todos os membros do time que estão envolvidos na parte negocial do desenvolvimento de uma história, geralmente QAs, DEVs e POs. 
 
 Os testes também sofrem um reflexo desse processo, não sendo escritos diretamente utilizando uma linguagem técnica. Agora eles passam a descrever o comportamento da sua aplicação, onde primeiramente os cenários de teste são descritos para então escrevermos nossos testes em si. Agora, o foco deles irá nos dizer em como o sistema deve se comportar e em por que escrevemos aquela funcionalidade.
 
