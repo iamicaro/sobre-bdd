@@ -33,7 +33,8 @@ Dado que o cliente esteja na listagem de cupons de Frete VIP
 Quando selecionar o cupom desejado
 E obter o cupom selecionado
 Então mostrará uma mensagem de sucesso
-
+```
+```text
 Eu como cliente do CB VIP
 Quero obter um cupom válido para Frete VIP
 Para utilizar no carrinho
