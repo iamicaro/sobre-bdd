@@ -11,3 +11,11 @@ Dan North tinha como objetivo aproximar pessoas não técnicas no processo de cr
 O BDD serve para aperfeiçoar o desenvolvimento e aproximar todas as partes envolvidas no processo de criação. Isso ocorre pela estrutura do BDD ser baseada em uma linguagem comum entre todos os integrantes do time.
 
 Os testes também sofrem um reflexo desse processo, não sendo escritos diretamente utilizando uma linguagem técnica. Agora eles passam a descrever o comportamento da sua aplicação, onde primeiramente os cenários de teste são descritos para então escrevermos nossos testes em si. Agora, o foco deles irá nos dizer em como o sistema deve se comportar e em por que escrevemos aquela funcionalidade.
+
+# Na prática
+
+O processo de desenvolvimento do BDD se baseia na escrita de cenários de testes chamados de features(funcionalidades). Estes contém os requisitos e critérios de aceite do comportamento do sistema. Ela diz o que a funcionalidade precisa ter para ser iniciada, o que ela fará em seguida e quais serão os resultados após a sua execução.
+
+As features são regidas por três palavras básicas que definem o corpo da linguagem. Dado, Quando e Então. É claro que não é preciso seguir estas normas, mas North recomenda que seja estabelecido um padrão para a escrita, para que a comunicação entre as partes seja mantida.
+
+## Segue um exemplo de feature abaixo:
