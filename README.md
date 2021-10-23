@@ -33,13 +33,13 @@ Para utilizar no carrinho
 
 > A ideia é que as features sejam o mais descritivo possível, contendo todos os detalhes de sua funcionalidade, como meios para disparar o negocial e as possíveis validações do contexto. Os critérios de aceite dos cenários também estão especificados nela.
 
-## Quem escreve as features?
+## 🎯 Quem escreve as features?
 
 Os cenários de testes não são escritos apenas pelo desenvolvedor. Existe um conceito na metodologia ágil, difundida por Georgie Dinwiddie, chamada de regra dos três amigos. Nela existem três agentes principais que devem interagir diretamente entre si para construir um produto com melhor qualidade. Aqui podemos dizer que o PO (ou alguém mais próximo dos requisitos do produto podendo até mesmo ser o próprio cliente), o QA e o desenvolvedor se reúnem para debater os cenários de testes e escrevê-los da melhor forma possível.
 
 > É importante frisar que a interação entre todas as partes envolvidas no processo deve ocorrer. Durante a cerimônia, diversas perguntas serão feitas a fim de especificar a feature da melhor forma possível.
 
-## Conclusão
+## ✅ Conclusão
 
 Vimos diversas formas de como podemos nos beneficiar do processo de BDD em nossos projetos. Podemos listar algumas vantagens de por que aplicar a metodologia em seu dia a dia.
 
