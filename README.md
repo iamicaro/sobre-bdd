@@ -28,7 +28,7 @@ Então - Resultado esperado
 
 ### Segue um exemplo de feature abaixo:
 
-```groovy
+```gherkin
 Dado que o cliente esteja na listagem de cupons de Frete VIP
 Quando selecionar o cupom desejado
 E obter o cupom selecionado
