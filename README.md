@@ -30,3 +30,5 @@ Eu como cliente do CB VIP
 Quero obter um cupom válido para Frete VIP
 Para utilizar no carrinho
 ```
+
+> A ideia é que as features sejam o mais descritivo possível, contendo todos os detalhes de sua funcionalidade, como meios para disparar o negocial e as possíveis validações do contexto. Os critérios de aceite dos cenários também estão especificados nela.
