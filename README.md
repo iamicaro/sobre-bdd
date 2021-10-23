@@ -24,6 +24,12 @@ As features são regidas por três palavras básicas que definem o corpo da ling
 > Quando - Teste propriamente dito
 > Então - Resultado esperado
 
+```groovy
+Dado - Pré-condição do teste
+Quando - Teste propriamente dito
+Então - Resultado esperado
+```
+
 ### Segue um exemplo de feature abaixo:
 
 ```groovy
